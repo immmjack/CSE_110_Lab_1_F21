@@ -46,7 +46,7 @@ I play 2K, FIFA, Kingdom Rush, and Hearthstone. Also, I like playing the piano.
 </div>
 ```
 
-[Here](/main/README.md) is the README file for this lab. 
+[Here](main/README.md) is the README file for this lab. 
 
 Besides this page created in CSE 110, I also maintain [my personal webpage](https://immmjack.github.io/).
 
