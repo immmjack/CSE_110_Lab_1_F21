@@ -23,7 +23,7 @@ I play 2K, FIFA, Kingdom Rush, and Hearthstone. Also, I like playing the piano.
 
 ![This is an image](Person.jpeg)
 
-## Some Other Stuffs
+## Some Random Stuffs (Automatic Section Link)
 
 ```
 <div class = "promo-block parallax-window" data-parallax = "scroll" data-image-src = "./img/Background.jpeg">
@@ -46,7 +46,11 @@ I play 2K, FIFA, Kingdom Rush, and Hearthstone. Also, I like playing the piano.
 </div>
 ```
 
-[Here](vscode_branch/PRIVATE.txt) is my personal information in the campus. 
+### Relative Link
+
+[Here](README.md) is the README file. 
+
+### Link
 
 Besides this page created in CSE 110, I also maintain [my personal webpage](https://immmjack.github.io/).
 
